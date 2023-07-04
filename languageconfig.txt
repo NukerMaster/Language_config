@@ -1,0 +1,3 @@
+// forcer la langue française pour le format de date
+user_pref("intl.accept_languages", "fr-fr, fr");
+user_pref("intl.regional_prefs.use_os_locales”, false);
